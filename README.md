@@ -13,7 +13,7 @@ Experiments show that my method outperforms most approaches. I achieved top 3% r
 
 
 
-# Project 2. Machine Learning Analysis on Census Bureau Dataset.
+# [Project 2. Machine Learning Analysis on Census Bureau Dataset](https://github.com/YangkaiRen/Census-Bureau)
 
 
 The Census Dataset is collected from UCI Machine Learning Repository. The goal of the dataset is to train a binary classifier to predict the income. The total data volume is 50k instances and 14 attributes. None anonymous varibles in it.  Confusion matrix and accuracy score is the evalueate technology for model.
