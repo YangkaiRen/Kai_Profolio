@@ -1,8 +1,15 @@
-# Kai_Profolio
-data science profolio
+# Yangkai Ren 
+data science profolio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Redume](https://drive.google.com/drive/my-drive)
 
+Highly motivated professional with experience in Data Analytics and Data Scientists. Passionate about Data Mining, Machine Learning, Data Visualization, Big Data, CI/CD pipeline. Love to learn new knowledge and enjoy working under great pressure.
 
-# [Project 1. Tianchi _ used car transaction price prediction data analysis](https://github.com/YangkaiRen/used_car_DA)
+Contect:    
+yren.allen@gmail.com    
+[LinkedIn](https://www.linkedin.com/in/yangkai-ren-441b64145/)    
+    
+________________________________________________________________________________________________________________________________________________________________
+
+# [Project 1. Tianchi used car transaction price prediction data analysis](https://github.com/YangkaiRen/used_car_DA)
 
 
 The project is based on the used car market and requires players to predict the transaction price of used cars. It is a typical regression problem. The total data volume exceeds 400k and contains 31 columns of variable information, 15 of which are anonymous variables. I use MSE(mean suqared erro) technology to evalueate models.    
