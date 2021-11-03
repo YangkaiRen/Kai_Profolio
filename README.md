@@ -9,7 +9,7 @@ yren.allen@gmail.com
     
 ________________________________________________________________________________________________________________________________________________________________
 
-# [Project 1. Tianchi used car transaction price prediction data analysis](https://github.com/YangkaiRen/used_car_DA)
+# [Project 1. Used car prices prediction contest project in Tianchi of Alibaba](https://github.com/YangkaiRen/used_car_DA)
 
 
 The project is based on the used car market and requires players to predict the transaction price of used cars. It is a typical regression problem. The total data volume exceeds 400k and contains 31 columns of variable information, 15 of which are anonymous variables. I use MSE(mean suqared erro) technology to evalueate models.    
