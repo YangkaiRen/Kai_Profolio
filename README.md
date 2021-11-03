@@ -1,6 +1,5 @@
 # Yangkai Ren 
 data science profolio       
-[Redume](https://drive.google.com/drive/my-drive)
 
 Highly motivated professional with experience in Data Analytics and Data Scientists. Passionate about Data Mining, Machine Learning, Data Visualization, Big Data, CI/CD pipeline. Love to learn new knowledge and enjoy working under great pressure. Thanks for stopping by, Please reach out if you'd like to chat!👋
 
