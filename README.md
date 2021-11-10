@@ -12,22 +12,26 @@ ________________________________________________________________________________
 # [Project 1. Used car prices prediction contest project in Tianchi of Alibaba](https://github.com/YangkaiRen/used_car_DA)
 
 
-The project is based on the used car market and requires players to predict the transaction price of used cars. It is a typical regression problem. The total data volume exceeds 400k and contains 31 columns of variable information, 15 of which are anonymous variables. I use MSE(mean suqared erro) technology to evalueate models.    
+*	Used python to program the advanced Machine Learning technology on used car market data from Alibaba (400k data and 15 anonymous’ variables)           
+*	Used mixed models (LGMBRegressor and CatBoostRegressor) based on EDA, preprocessing, and feature engineering to build a regression algorithm model and achieve the 439.83 MAE on the test data (top 3% in 12912 competing teams).         
+*	Utilized target encoding and feature crossing technology to create new features and select important features by embedding          
+*	Optimized LGBMRegressor and CatBoostRegressor using GridsearchCV to reach the best model        
 
-For this project, My method uses mixed models (LGMB and CatBoost) based on EDA, preprocessing, and feature engineering. utlized GridsearchCV to optimize. Finally, I choose Weighted arithmetic mean to be my ensemble method.  
 
-Experiments show that my method outperforms most approaches. I achieved top 3% ranking.
 
 
 
 # [Project 2. Machine Learning Analysis on Census Bureau Dataset](https://github.com/YangkaiRen/Census-Bureau)
 
 
-The Census Dataset is collected from UCI Machine Learning Repository. The goal of the dataset is to train a binary classifier to predict the income. The total data volume is 50k instances and 14 attributes. None anonymous varibles in it.  Confusion matrix and accuracy score is the evalueate technology for model.
+*	Developed Machine Learning technology on Census Bureau Dataset(50k data)            
+*	Used Filter method to select a subset of features by the correlation between features and class label.            
+*	Used Ensemble method to generate a classification algorithm from different machine learning classifiers(KNN, Naïve Bays, Logistic Regression) to classify test dataset        
+*	Utilized confusion Matrix and accuracy score to evaluate machine learning classifier accuracy achieve 85.2%.            
+*	Create an ML pipeline to automate the iterative processes of data transformation and building estimators          
+*	The pipelines offer efficient methods to apply to transform numerical and category features automatically.        
 
-For this question. I developed an ML pipeline to automate the iterative processes of data transformation and building estimators. I write my own custom transformer which will select the corresponding attributes for my pipline. So the pipelines offer efficient methods to automatically apply to preprocess and feature engineering to numerical and category features. 
 
-Finally, I bulided the Logistic Regression classifier to classify the income of data. The model was able to get the to predict the income with 85.2 accuracy after minimal tuning. 
 
   
 
