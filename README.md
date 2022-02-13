@@ -15,6 +15,8 @@ of marketing believes the company’s future success depends on maximizing the n
 In order to answer the question, I use the steps of the data analysis process: ask, prepare, process, analyze, share and act to find the truth of data and visualize the finding step by step.
 
 # [FitBit Smart Devices Trends Analysis](https://github.com/YangkaiRen/Fitbit_Smart_Devices_Trends_Analysis/blob/master/BitFit_Case_Study.ipynb)
+Bellabeat is a high-tech manufacturer of health-focused products for women. Cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart
+device fitness data could help unlock new growth opportunities for the company. My task is to analyze FitBit smart device data to gain insight into how consumers are using their smart devices. For performing task, I use the steps of the data analysis process: ask, prepare, process, analyze, share and act to guide me to find the trends in FitBit smart device usage. Then answer the question about how could these trends apply to Bellabeat customers and how could these trends help influence Bellabeat marketing strategy?
 
 
 
