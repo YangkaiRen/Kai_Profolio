@@ -33,3 +33,6 @@ This project is a machine learning competition. In order to get a better result.
 
 This project was motivated by my drive to learn about the machine learning pipeline and classification algorithm. In the project, I cleaned the data, encoded the discrete feature with one-hot encoding, created the machine learning pipeline and classifier model to classify people's income by the features with 85.2% accuracy on the Census Bureau Dataset. 
        
+
+# [Covid-19 Tableau Dashboard]
+]
