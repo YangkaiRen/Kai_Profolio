@@ -8,6 +8,9 @@ yren.allen@gmail.com
 [LinkedIn](https://www.linkedin.com/in/yangkai-ren-441b64145/)    
     
 ________________________________________________________________________________________________________________________________________________________________
+# [Case study: How Does a Bike-Share Navigate Speedy Success?](https://github.com/YangkaiRen/Bike_Share_Analysis/blob/main/Bike-Share01.ipynb)
+
+
 
 # [Project 1. Used car prices prediction contest project in Tianchi of Alibaba](https://github.com/YangkaiRen/used_car_DA)
 
