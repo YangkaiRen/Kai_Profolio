@@ -1,7 +1,11 @@
 # Yangkai Ren 
       
+I am a highly motivated data analyst offering proficient capability in data processing, data modeling, data visualization with the problem-solving capability and strong can-do mindset, well-developed communication, and keen analytical interest. 
 
-Highly motivated professional with experience in Data Analytics and Data Scientists. Passionate about Data Mining, Machine Learning, Data Visualization, Big Data, CI/CD pipeline. Love to learn new knowledge and enjoy working under great pressure. Thanks for stopping by, Please reach out if you'd like to chat!👋
+I am full of this enthusiasm and curiosity because I do want to explore this unknown world, and data is quite such an interesting way to satisfy my eager to find, explore and enable me to be inspired.
+
+Core Competencies:
+Data Analysis • Data Visualization • Data modeling techniques • Communication
 
 Contect:    
 yren.allen@gmail.com    
