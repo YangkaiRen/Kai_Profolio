@@ -8,11 +8,15 @@ yren.allen@gmail.com
 [LinkedIn](https://www.linkedin.com/in/yangkai-ren-441b64145/)    
     
 ________________________________________________________________________________________________________________________________________________________________
-# [Case study: How Does a Bike-Share Navigate Speedy Success?](https://github.com/YangkaiRen/Bike_Share_Analysis/blob/main/Bike-Share01.ipynb)
+# [Cyclistic bike-share analysis](https://github.com/YangkaiRen/Bike_Share_Analysis/blob/main/Bike-Share01.ipynb)
 
 
 
-# [Project 1. Used car prices prediction contest project in Tianchi of Alibaba](https://github.com/YangkaiRen/used_car_DA)
+# [FitBit Smart Devices Trends Analysis](https://github.com/YangkaiRen/Fitbit_Smart_Devices_Trends_Analysis/blob/master/BitFit_Case_Study.ipynb)
+
+
+
+# [Used car prices prediction contest project in Tianchi of Alibaba](https://github.com/YangkaiRen/used_car_DA)
 
 
 *	Used python to program the advanced Machine Learning technology on used car market data from Alibaba (400k data and 15 anonymous’ variables)           
@@ -24,7 +28,7 @@ ________________________________________________________________________________
 
 
 
-# [Project 2. Machine Learning Analysis on Census Bureau Dataset](https://github.com/YangkaiRen/Census-Bureau)
+# [Machine Learning Analysis on Census Bureau Dataset](https://github.com/YangkaiRen/Census-Bureau)
 
 
 *	Developed Machine Learning technology on Census Bureau Dataset(50k data)            
