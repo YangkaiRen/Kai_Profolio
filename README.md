@@ -11,7 +11,6 @@ ________________________________________________________________________________
 # [Cyclistic bike-share analysis](https://github.com/YangkaiRen/Bike_Share_Analysis/blob/main/Bike-Share01.ipynb)
 
 
-
 # [FitBit Smart Devices Trends Analysis](https://github.com/YangkaiRen/Fitbit_Smart_Devices_Trends_Analysis/blob/master/BitFit_Case_Study.ipynb)
 
 
