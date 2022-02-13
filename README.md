@@ -26,28 +26,10 @@ device fitness data could help unlock new growth opportunities for the company. 
 
 # [Used car prices prediction contest project in Tianchi of Alibaba](https://github.com/YangkaiRen/used_car_DA)
 
-
-*	Used python to program the advanced Machine Learning technology on used car market data from Alibaba (400k data and 15 anonymous’ variables)           
-*	Used mixed models (LGMBRegressor and CatBoostRegressor) based on EDA, preprocessing, and feature engineering to build a regression algorithm model and achieve the 439.83 MAE on the test data (top 3% in 12912 competing teams).         
-*	Utilized target encoding and feature crossing technology to create new features and select important features by embedding          
-*	Optimized LGBMRegressor and CatBoostRegressor using GridsearchCV to reach the best model        
-
-
-
-
+This project is a machine learning competition. In order to get a better result. I used EDA technical to find the data structure and trends, extracted important features, checked the outlier, missing values, logic error, and format issue, Created the new features with target encoding and feature crossing technology, and created a regression model to predict the price with 439.83 MAE accuracy on a validation. Finally, I ranked top 2% in all teams.
+      
 
 # [Machine Learning Analysis on Census Bureau Dataset](https://github.com/YangkaiRen/Census-Bureau)
 
-
-*	Developed Machine Learning technology on Census Bureau Dataset(50k data)            
-*	Used Filter method to select a subset of features by the correlation between features and class label.            
-*	Used Ensemble method to generate a classification algorithm from different machine learning classifiers(KNN, Naïve Bays, Logistic Regression) to classify test dataset        
-*	Utilized confusion Matrix and accuracy score to evaluate machine learning classifier accuracy achieve 85.2%.            
-*	Create an ML pipeline to automate the iterative processes of data transformation and building estimators          
-*	The pipelines offer efficient methods to apply to transform numerical and category features automatically.        
-
-
-
-  
-
-
+This project was motivated by my drive to learn about the machine learning pipeline and classification algorithm. In the project, I cleaned the data, encoded the discrete feature with one-hot encoding, created the machine learning pipeline and classifier model to classify people's income by the features with 85.2% accuracy on the Census Bureau Dataset. 
+       
