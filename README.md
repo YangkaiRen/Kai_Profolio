@@ -9,7 +9,10 @@ yren.allen@gmail.com
     
 ________________________________________________________________________________________________________________________________________________________________
 # [Cyclistic bike-share analysis](https://github.com/YangkaiRen/Bike_Share_Analysis/blob/main/Bike-Share01.ipynb)
+In this project , Suppose I was a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director
+of marketing believes the company’s future success depends on maximizing the number of annual memberships.  So we can confirm our business task is to design marketing strategies aimed at converting casual riders into annual members.  Therefore, I want to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, my team will design a new marketing strategy to convert casual riders into annual members.
 
+In order to answer the question, I use the steps of the data analysis process: ask, prepare, process, analyze, share and act to find the truth of data and visualize the finding step by step.
 
 # [FitBit Smart Devices Trends Analysis](https://github.com/YangkaiRen/Fitbit_Smart_Devices_Trends_Analysis/blob/master/BitFit_Case_Study.ipynb)
 
