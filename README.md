@@ -42,10 +42,11 @@ This project is the data science competition organized by Tianchi of Allibaba.
 # [Machine Learning Analysis on Census Bureau Dataset](https://github.com/YangkaiRen/Census-Bureau)
 This project was motivated by my drive to learn about the best practices of classification models and the machine learning pipeline.
 
++ Developed Machine Learning technology on Census Bureau Dataset
 + cleaned the data, encoded the discrete feature with one-hot encoding
 + created the machine learning pipeline and multiple classifiers to classify people's income by the features
-+ Achieved 85.2% accuracy on the Census Bureau Dataset.
-       
++ Used Confusion Matrix to evaluate each machine learning classifiers. Achieved 85.2% accuracy
+      
 
 # [Covid-19 Tableau Dashboard](https://public.tableau.com/app/profile/allen.ren/viz/covid-19dashboard_16403069544190/Dashboard3)
 Covid-19 changes our life these years. So I hope to create a Covid-19 dashboard myself to see the trends of the world. In this project, I choose SQL to be my code language. I Built and collated complex SQL queries to conduct data cleaning and validation on data sets; checked the consistency, accuracy, and continuity of data with leverage of SQL. Analyzed various aspects of the COVID-19 dataset using SQL to understand the severity of the situation in the most affected countries and regions. Finally, I design interactive dashboards in Tableau which add value to society.
